@@ -1,7 +1,7 @@
 body {
-    background-color: rgb(22, 22, 22);
+    background-color: rgb(30, 10, 15);
     color: linen;
-    font-size: 150%;
+    font-size: 175%;
     line-height: 1.4;
 }
 
@@ -25,7 +25,7 @@ h2{
 }
 
 a {
-    color: rgb(50, 118, 63);
+    color: rgb(50, 255, 63);
     text-decoration: none;
 }
 
@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: rgb(215, 206, 199);
+    background-color: rgb(202, 2, 199);
     color:  rgb(215, 206, 199);
 }
 
@@ -72,7 +72,7 @@ img{
 }
 
 .box { 
-    width: 250px;
+    width: 500px;
     margin: 15px;
     display: inline-block;
     vertical-align: top;   
