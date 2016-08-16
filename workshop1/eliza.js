@@ -106,6 +106,12 @@ var rules = {
     "What makes you happy just now?",
     "Can you explain why you are suddenly ~y?",
   ],
+  "~*x Noah Wurtz ~*y": [
+    "Hello Noah, I've been expecting you.",
+    "I think you need to reconsider what you qualify as 'fun.'",
+    "How goes the coding Captain?",
+    "No, thank you.",
+  ],
   "~*x I am sad ~*y": [
     "I am sorry to hear you are depressed",
     "I'm sure it's not pleasant to be sad",
